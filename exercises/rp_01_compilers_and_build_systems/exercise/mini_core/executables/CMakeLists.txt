@@ -1,0 +1,2 @@
+add_executable(executable many_object_in_stack_example.cpp)
+target_link_libraries(executable core_library)
